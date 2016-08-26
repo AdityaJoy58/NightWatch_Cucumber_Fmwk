@@ -1,0 +1,21 @@
+{
+  "name": "react-nightwatch-cucumber",
+  "version": "1.0.1",
+  "description": "Nightwatch Cucumber Freamwork setup for testing a Sample React Application",
+  "main": "cucumber.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "3.5.0",
+    "chromedriver": "2.21.2",
+    "iedriver": "2.53.0",
+    "cucumber": "0.10.2",
+    "nightwatch": "0.8.18",
+    "nightwatch-cucumber": "2.1.7",
+    "selenium-server": "2.53.0"
+  },
+  "devDependencies": {},
+  "author": "AB185330",
+  "license": "ISC"
+}

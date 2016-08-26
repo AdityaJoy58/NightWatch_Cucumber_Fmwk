@@ -1,0 +1,17 @@
+# Ignore Node Modules
+node_modules
+
+# Ignore log files
+*.log
+
+# Ignore .idea folder
+.idea
+
+# Ignore C file
+C
+
+# Ignore screenshots folder
+screenshots
+
+# Ignore test output folder
+tests_output
